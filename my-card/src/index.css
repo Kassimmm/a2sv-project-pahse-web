@@ -1,0 +1,99 @@
+body {
+  background-color: #e2e1e0;
+  color: #fff;
+  font-size: 16px;
+  font-family: monospace;
+}
+
+.card {
+  width: 30%;
+  max-width: 285px;
+  margin: auto;
+  margin-top: 60px;
+  background-color:#1d2630;
+  padding: 30px 20px;
+  border-radius: 6px;
+  box-shadow: 0 12px 13px rgba(0, 0, 0, 0.16);
+}
+
+.avatar {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.avatar img {
+  border-radius: 100%;
+  width: 130px;
+  height: 130px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.info h2 {
+  margin: 0;
+}
+
+.info p {
+  margin: 11px;
+  font-size: 13.5px;
+  color: #7C8097;
+}
+
+.info a {
+  font-size: 0.9em;
+  outline: none;
+  text-decoration: none;
+  color: #fff;
+}
+
+.info a:hover {
+  color: #1b4941;
+}
+
+.web {
+  width: 40%;
+  padding: 5px;
+  margin: 12% auto;
+  background-color: #19A68C;
+  text-align: center;
+  border-radius: 3px;
+}
+
+.web:hover {
+  background: #e2e1e0;
+  transition: all 300ms linear;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 25px;
+}
+
+.social-links a {
+  color: white;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.social-links a:hover {
+  color: #19A68C;
+}
+
+@media (max-width: 768px) {
+  .card {
+    width: 70%;
+    margin-top: 30px; /* Adjusted margin top */
+  }
+
+  .web {
+    width: 40%;
+    margin: 12% auto;
+  }
+
+  .info a {
+    font-size: 0.6em;
+  }
+}
