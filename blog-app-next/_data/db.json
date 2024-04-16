@@ -1,0 +1,74 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "title": "Fix the footer links immediately",
+      "body": "Triforce sit amet, Linkus Hyruleus tempus Ganondorf. Nunc ocarina sagittis quis Majoras Mask. Nulla in metus arcu. Suspendisse potenti. In vel mauris varius, consectetur Zora ipsum eget, Master Sword porttitor urna. Fusce elementum urna elit, eget eleifend velit consectetur eget. Integer vel lobortis ipsum, vitae auctor Ocarina of Time. Donec sed urna dapibus, interdum magna a, eleifend magna. Curabitur tincidunt enim a neque volutpat. Phasellus auctor magna vel nunc pretium, ut volutpat justo tristique. Pellentesque cursus convallis mauris, in tempus enim tincidunt vitae.",
+      "priority": "personal",
+      "date": "Tue, 16 Apr 2024 10:54:59 GMT"
+    },
+    {
+      "id": "2",
+      "title": "Add in a new stylesheet for next.js using typescript",
+      "body": "Lorem ipsum Triforce sit amet, Linkus Hyruleus tempus Ganondorf. Nunc ocarina sagittis quis Majoras Mask. Nulla in metus arcu. Suspendisse potenti. In vel mauris varius, consectetur Zora ipsum eget, Master Sword porttitor urna. Fusce elementum urna elit, eget eleifend velit consectetur eget. Integer vel lobortis ipsum, vitae auctor Ocarina of Time. Donec sed urna dapibus, interdum magna a, eleifend magna. Curabitur tincidunt enim a neque volutpat. Phasellus auctor magna vel nunc pretium, ut volutpat justo tristique. Thank you",
+      "priority": "specialized",
+      "date": "Tue, 16 Apr 2024 06:29:42 GMT"
+    },
+    {
+      "id": "3",
+      "title": "Fix the footer links",
+      "body": "Lorem ipsum Triforce sit amet, Linkus Hyruleus tempus Ganondorf. Nunc ocarina sagittis quis Majoras Mask. Nulla in metus arcu. Suspendisse potenti. In vel mauris varius, consectetur Zora ipsum eget, Master Sword porttitor urna. Fusce elementum urna elit, eget eleifend velit consectetur eget. Integer vel lobortis ipsum, vitae auctor Ocarina of Time. Donec sed urna dapibus, interdum magna a, eleifend magna. Curabitur tincidunt enim a neque volutpat. Phasellus auctor magna vel nunc pretium, ut volutpat justo tristique. Pellentesque cursus convallis mauris, in tempus enim tincidunt vitae.",
+      "priority": "business",
+      "date": "Thu, 14 Apr 2024 11:02:44 GMT"
+    },
+    {
+      "id": "f3b7",
+      "title": "h vhh ",
+      "body": "erucur vrg",
+      "priority": "specialized",
+      "date": "Thu, 14 Apr 2024 11:02:44 GMT"
+    },
+    {
+      "id": "aa34",
+      "title": "The need for change",
+      "body": "Everyone needs to embrace change",
+      "priority": "specialized",
+      "date": "Thu, 14 Apr 2024 11:02:44 GMT"
+    },
+    {
+      "id": "a8c5",
+      "title": "New Blog",
+      "body": "Hey there, this is a new blog",
+      "priority": "personal",
+      "date": "Thu, 14 Apr 2024 11:02:44 GMT"
+    },
+    {
+      "id": "3502",
+      "title": "Another blog",
+      "body": "I have added another blog",
+      "priority": "business",
+      "date": "Thu, 14 Apr 2024 11:02:44 GMT"
+    },
+    {
+      "id": "4010",
+      "title": "Another",
+      "body": "Yet another blog",
+      "priority": "business",
+      "date": "Thu, 14 Apr 2024 11:02:44 GMT"
+    },
+    {
+      "id": "355e",
+      "title": "Last",
+      "body": "Last blog",
+      "priority": "specialized",
+      "date": "Mon, 15 Apr 2024 10:23:30 GMT"
+    },
+    {
+      "id": "d9be",
+      "title": "Nathan's blog",
+      "body": "Yeah this is for Nathan",
+      "priority": "personal",
+      "date": "Mon, 15 Apr 2024 12:05:10 GMT"
+    }
+  ]
+}
